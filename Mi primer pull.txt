@@ -1,1 +1,3 @@
-Hola este es mi primer pull a mi repositorio
+Hola este es mi primer pull a mi repositorio.
+
+estos sol los primeros cambios
