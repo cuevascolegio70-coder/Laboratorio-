@@ -1,3 +1,252 @@
-Hola este es mi primer pull a mi repositorio.
+\documentclass[11pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=2.54cm]{geometry}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{mathptmx} 
+\usepackage{amsmath}
+\usepackage{chemformula}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{tabularx}
 
-estos sol los primeros cambios
+% --- CONFIGURACIÓN SEGÚN MANUAL DE ELABORACIÓN ---
+\singlespacing 
+\titleformat{\section}{\centering\bfseries\Large\selectfont}{}{0pt}{\MakeUppercase}
+\titleformat{\subsection}{\bfseries\Large\selectfont\underline}{}{0pt}{\MakeUppercase}
+\titleformat{\subsubsection}{\bfseries\normalsize\selectfont\underline}{}{0pt}{\MakeUppercase}
+
+\begin{document}
+
+% --- ÍNDICE ---
+\pagenumbering{gobble}
+\section*{ÍNDICE}
+\noindent 1. INTRODUCCIÓN \dotfill I \\
+II. FUNDAMENTO TEÓRICO \dotfill 1 \\
+\hspace*{0.5cm} 2.1 MARCO TEÓRICO \dotfill 1 \\
+\hspace*{0.5cm} 2.2 TABLAS SOBRE FICHAS DE SEGURIDAD \dotfill 3 \\
+III. OBJETIVOS \dotfill 5 \\
+IV. METODOLOGÍA \dotfill 6 \\
+\hspace*{0.5cm} 4.1 PROCEDIMIENTO A \dotfill 6 \\
+\hspace*{0.5cm} 4.2 PROCEDIMIENTO B \dotfill 7 \\
+\hspace*{0.5cm} 4.3 PROCEDIMIENTO C \dotfill 8 \\
+V. REACCIONES QUÍMICAS \dotfill 9 \\
+VI. REFERENCIAS BIBLIOGRÁFICAS \dotfill 10 \\
+\newpage
+
+% --- INTRODUCCIÓN ---
+\pagenumbering{roman}
+\section{1. INTRODUCCIÓN}
+La práctica de laboratorio número 4, titulada ``Identificación de reacciones químicas por su fuerza impulsora'', tiene como propósito fundamental el estudio de los mecanismos que permiten el progreso de una transformación química hacia la formación de productos estables. En el contexto de la ingeniería, comprender por qué una reacción es espontánea resulta indispensable para el control de procesos industriales y la síntesis de nuevos materiales.
+
+Durante esta sesión experimental, se analizarán tres tipos de fuerzas impulsoras mediante procedimientos específicos. El primero se centra en las reacciones de precipitación, donde la formación de una red cristalina insoluble desplaza el equilibrio. El segundo procedimiento evalúa la evolución de dióxido de carbono gaseoso, analizando cómo el aumento de la entropía favorece la reacción. Finalmente, se ejecutará una neutralización ácido-base para evidenciar la formación de agua como compuesto molecular estable. El presente documento detalla el marco teórico, las medidas de seguridad y la metodología detallada para garantizar una ejecución precisa y segura en el laboratorio.
+
+\newpage
+
+% --- FUNDAMENTO TEÓRICO ---
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\section{II. FUNDAMENTO TEÓRICO}
+
+\subsection{2.1 MARCO TEÓRICO}
+
+\subsubsection{2.1.1 DINÁMICA DE LAS REACCIONES EN DISOLUCIÓN}
+Las reacciones en disolución acuosa representan la mayoría de los procesos químicos estudiados en el laboratorio de química básica. Una reacción ocurre cuando los choques entre partículas tienen la energía y orientación adecuada para romper enlaces. Sin embargo, para que esta reacción sea perceptible a nivel macroscópico, debe existir una ``fuerza impulsora'' que desplace el equilibrio hacia la derecha. Según Chang y Goldsby (2017), estas fuerzas suelen clasificarse en tres tipos principales: formación de un sólido insoluble, formación de un gas o formación de un electrólito débil como el agua.
+
+\subsubsection{2.1.2 ENTALPÍA Y ESTABILIDAD MOLECULAR}
+Desde el punto de vista energético, muchas reacciones ocurren porque los productos finales poseen una energía potencial menor que los reactivos iniciales. Este cambio en la entalpía es particularmente evidente en las reacciones de neutralización ácido-base. Al combinarse un ion hidrógeno con un ion hidroxilo, se forma agua líquida, cuya estabilidad molecular es tan alta que libera energía al entorno en forma de calor. Esta liberación de energía actúa como un motor que impulsa la reacción hacia la consumación total de los reactivos (Brown et al., 2014).
+
+\subsubsection{2.1.3 REACCIONES DE PRECIPITACIÓN Y SOLUBILIDAD}
+La precipitación es un proceso donde iones disueltos se unen para formar un cristal sólido que se separa de la fase líquida. Esta fuerza impulsora depende intrínsecamente de las reglas de solubilidad. Cuando el producto iónico supera la constante del producto de solubilidad ($K_{ps}$), el exceso de iones cae al fondo del recipiente. Este fenómeno es vital en procesos industriales de purificación de agua, donde se busca remover metales pesados transformándolos en lodos insolubles fáciles de filtrar (Zumdahl y DeCoste, 2018).
+
+
+
+[Image of chemical precipitation reaction diagram]
+
+
+\subsubsection{2.1.4 LA ENTROPÍA Y LA FORMACIÓN DE GASES}
+La segunda ley de la termodinámica establece que los procesos espontáneos tienden al aumento del desorden del universo. En química, la formación de un gas a partir de reactivos sólidos o líquidos genera un incremento masivo en la entropía del sistema. Al ser los gases fluidos de baja densidad que tienden a expandirse y escapar del medio de reacción, el proceso se vuelve prácticamente irreversible bajo condiciones estándar. La efervescencia observada en la reacción de bicarbonatos es la prueba visual de este desplazamiento entrópico (Brown et al., 2014).
+
+\newpage
+
+\subsubsection{2.1.5 ELECTRÓLITOS Y REACCIONES DE TRANSFERENCIA}
+La distinción entre electrólitos fuertes y débiles es clave para entender las fuerzas impulsoras. Mientras que los electrólitos fuertes se disocian completamente, los débiles tienden a permanecer como moléculas unidas. La formación de una sustancia que no se disocia (como el agua o un ácido débil) retira iones de la solución, lo que obliga a la reacción a continuar. En la neutralización de \ch{NaOH} con \ch{HCl}, el sistema busca la formación de \ch{H2O}, un electrólito extremadamente débil, lo que consolida la transformación química de manera efectiva (Chang y Goldsby, 2017).
+
+\subsubsection{2.1.6 EL PAPEL DE LOS IONES ESPECTADORES}
+En muchas reacciones de fuerza impulsora, no todos los iones participan activamente en la formación del nuevo producto. Aquellos que permanecen en solución sin cambiar su estado se denominan iones espectadores. Identificar la ecuación iónica neta es fundamental para visualizar la verdadera fuerza impulsora, eliminando a los espectadores y enfocándose únicamente en las especies que forman el sólido, el gas o el agua. Este enfoque simplifica el análisis de la reactividad y permite predecir el comportamiento de mezclas complejas (Zumdahl y DeCoste, 2018).
+
+\subsubsection{2.1.7 OBSERVACIONES CUALITATIVAS EN EL LABORATORIO}
+La identificación de las fuerzas impulsoras se basa en la observación rigurosa. Un cambio de color, la aparición de turbidez, el aumento de temperatura en las paredes del tubo de ensayo o el sonido de la liberación de gas son indicadores de que una de las fuerzas mencionadas ha entrado en juego. En la práctica, estas observaciones deben ser registradas con precisión, correlacionándolas con la estequiometría teórica para confirmar que la fuerza impulsora predicha en papel coincide con el fenómeno físico observado en el laboratorio (Manual de Laboratorio, 2026).
+
+\newpage
+
+\subsection{2.2 TABLAS SOBRE FICHAS DE SEGURIDAD}
+
+\noindent \textbf{Tabla 1.} Propiedades Físicas y Químicas de los Reactivos.
+\begin{table}[h!]
+\small
+\centering
+\begin{tabular}{|p{2.5cm}|p{2cm}|p{2cm}|p{2.5cm}|p{1.5cm}|p{1.5cm}|p{2cm}|}
+\hline
+\textbf{Sustancia} & \textbf{Fórmula} & \textbf{Masa molar} & \textbf{Apariencia} & \textbf{P. Fusión} & \textbf{P. Ebullición} & \textbf{Solubilidad} \\ \hline
+Ácido clorhídrico & \ch{HCl} & 36.46 g/mol & Líquido incoloro & -30 °C & 48 °C & Agua \\ \hline
+Hidróxido sódico & \ch{NaOH} & 39.99 g/mol & Sólido blanco & 318 °C & 1390 °C & Agua \\ \hline
+Bicarbonato sodio & \ch{NaHCO3} & 84.01 g/mol & Polvo blanco & 50 °C & N/A & Agua \\ \hline
+Cloruro magnésico & \ch{MgCl2} & 95.21 g/mol & Cristales blancos & 714 °C & 1412 °C & Agua \\ \hline
+\end{tabular}
+\end{table}
+
+\noindent \textbf{Tabla 2.} Toxicidades y Riesgos por tipo de contacto.
+\begin{table}[h!]
+\small
+\centering
+\begin{tabular}{|p{2.5cm}|p{3.5cm}|p{3.5cm}|p{3.5cm}|}
+\hline
+\textbf{Sustancia} & \textbf{Contacto Piel} & \textbf{Contacto Ojos} & \textbf{Ingestión} \\ \hline
+Ácido clorhídrico & Corrosivo. Produce quemaduras graves y dermatitis. & Dolor intenso, lagrimeo y posible ceguera. & Corrosión de las mucosas, náuseas y vómito. \\ \hline
+Hidróxido sódico & Destrucción de tejido. Sensación jabonosa (saponificación). & Daño severo inmediato. Puede causar ceguera. & Dolor severo, quemaduras en esófago y estómago. \\ \hline
+Cloruro magnésico & Irritación leve por contacto prolongado. & Irritación moderada, enrojecimiento. & Irritación gastrointestinal si se ingiere mucho. \\ \hline
+\end{tabular}
+\end{table}
+
+\noindent \textbf{Tabla 3.} Antídotos según tipo de exposición.
+\begin{table}[h!]
+\small
+\centering
+\begin{tabular}{|p{2.5cm}|p{3.5cm}|p{3.5cm}|p{3.5cm}|}
+\hline
+\textbf{Sustancia} & \textbf{Antídoto Piel} & \textbf{Antídoto Ojos} & \textbf{Antídoto Ingestión} \\ \hline
+Ácido clorhídrico & Lavar con agua y jabón por 15 min. Quitar ropa. & Lavar con agua a baja presión por 20 min. & No inducir vómito. Dar agua o leche. \\ \hline
+Hidróxido sódico & Lavar con chorro de agua abundante. & Lavar con solución salina o agua corriente. & Beber agua. No neutralizar con ácidos fuertes. \\ \hline
+Cloruro magnésico & Lavar con agua abundante. & Enjuagar con agua limpia. & Beber agua si hay malestar. \\ \hline
+\end{tabular}
+\end{table}
+
+\newpage
+
+% --- OBJETIVOS ---
+\section{III. OBJETIVOS}
+
+\subsection{3.1 OBJETIVO GENERAL}
+Demostrar experimentalmente las tres principales fuerzas impulsoras (formación de precipitados, evolución de gases y formación de compuestos moleculares) mediante reacciones químicas controladas para comprender la espontaneidad de los procesos.
+
+\subsection{3.2 OBJETIVOS ESPECÍFICOS}
+1. Diferenciar visualmente entre una mezcla homogénea y una heterogénea tras la formación de un precipitado iónico.
+2. Identificar la efervescencia como un indicador cualitativo de la formación de un gas en reacciones de carbonatos.
+3. Evaluar el cambio de temperatura y fase en una reacción de neutralización como evidencia de la formación de agua estable.
+
+\newpage
+
+% --- METODOLOGÍA ---
+\section{IV. METODOLOGÍA}
+
+\subsection{4.1 PROCEDIMIENTO A: FORMACIÓN DE UN PRECIPITADO}
+
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Inicio del experimento.}
+    \item Seleccionar un tubo de ensayo de 15x150 mm limpio y seco.
+    \item Rotular la parte superior del tubo con masking tape como ``Procedimiento A''.
+    \item \textbf{Preparación de reactivos:} Localizar los frascos con gotero de \ch{NaOH} y \ch{MgCl2}.
+    \item Agregar exactamente 20.0 gotas de hidróxido sódico (\ch{NaOH}) al tubo.
+    \item \textbf{Observación inicial:} Registrar el estado físico (color, transparencia) de la disolución.
+    \item Añadir lentamente 20.0 gotas de cloruro magnésico (\ch{MgCl2}) sobre la solución.
+    \item \textbf{Punto de decisión:} ¿Se observa la formación de una fase sólida blanca o turbidez?
+    \item \textbf{Si hay cambio:} Registrar el color y la textura (gelatinosa/polvosa) del precipitado.
+    \item \textbf{Si no hay cambio:} Agitar con una varilla de vidrio y esperar 30 segundos.
+    \item Agitar suavemente el tubo de ensayo para homogeneizar la mezcla resultante.
+    \item Dejar reposar el tubo en la gradilla por 2 minutos para observar la sedimentación.
+    \item Comparar el aspecto del precipitado con la teoría de solubilidad del magnesio.
+    \item Descartar el contenido en el recipiente de residuos específicos para hidróxidos.
+    \item Lavar el tubo con agua desionizada y detergente; secar perfectamente.
+    \item \textbf{Fin del procedimiento A.}
+\end{enumerate}
+
+\newpage
+
+\subsection{4.2 PROCEDIMIENTO B: FORMACIÓN DE GASES}
+
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Inicio del experimento.}
+    \item Limpiar un tubo de ensayo y verificar que no tenga residuos de bases o ácidos previos.
+    \item Rotular el tubo como ``Procedimiento B''.
+    \item \textbf{Pesaje:} Pesar aproximadamente 1.50 g de bicarbonato de sodio (\ch{NaHCO3}) en la balanza.
+    \item Utilizar un vidrio de reloj limpio para el transporte del reactivo sólido.
+    \item Transferir con cuidado el sólido al fondo del tubo de ensayo usando una espátula.
+    \item \textbf{Observación inicial:} Describir el aspecto físico del polvo (cristalino/amorfo).
+    \item Medir 5.00 mL de vinagre (ácido acético) utilizando una probeta de 10 mL.
+    \item Verter el vinagre rápidamente sobre el sólido en el tubo de ensayo.
+    \item \textbf{Fenómeno crítico:} Observar inmediatamente la efervescencia y desprendimiento de burbujas.
+    \item \textbf{Prueba térmica:} Tocar las paredes del tubo para detectar si la reacción es endotérmica o exotérmica.
+    \item Esperar a que la reacción termine (cuando cese el burbujeo audible).
+    \item \textbf{Análisis:} Determinar si el sólido se consumió totalmente o quedó un exceso de carbonato.
+    \item Limpiar el área de trabajo de posibles salpicaduras ácidas con papel absorbente.
+    \item Descartar los restos líquidos en el drenaje con abundante agua corriente.
+    \item Lavar y secar el material de vidrio utilizado.
+    \item \textbf{Fin del procedimiento B.}
+\end{enumerate}
+
+\newpage
+
+\subsection{4.3 PROCEDIMIENTO C: FORMACIÓN DE AGUA (NEUTRALIZACIÓN)}
+
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Inicio del experimento.}
+    \item Preparar el último tubo de ensayo, asegurando que esté libre de contaminantes químicos.
+    \item Rotular como ``Procedimiento C''.
+    \item Agregar 20.0 gotas de hidróxido sódico (\ch{NaOH}) al tubo.
+    \item \textbf{Registro:} Anotar que la solución inicial es incolora y límpida.
+    \item \textbf{Referencia térmica:} Percibir la temperatura ambiente del tubo con la palma de la mano.
+    \item Agregar gota a gota 20.0 gotas de ácido clorhídrico (\ch{HCl}) concentrado.
+    \item \textbf{Punto de observación:} Notar si existen cambios visuales (usualmente no visibles).
+    \item \textbf{Detección de calor:} Tocar la base del tubo inmediatamente después de la mezcla.
+    \item \textbf{Interpretación:} ¿Siente el aumento de temperatura? Registrar el fenómeno térmico.
+    \item Confirmar que la ausencia de gas o precipitado indica la formación de una molécula estable.
+    \item Proceder a la limpieza profunda de todo el material de vidrio con escobilla y jabón.
+    \item Organizar los frascos de reactivos en sus posiciones originales en la gradilla central.
+    \item Verificar que la mesa de trabajo quede completamente seca y libre de materiales.
+    \item Entregar el puesto al auxiliar de laboratorio para la firma de la hoja de datos.
+    \item \textbf{Fin de la práctica.}
+\end{enumerate}
+
+\newpage
+
+% --- REACCIONES QUÍMICAS ---
+\section{V. REACCIONES QUÍMICAS}
+
+\noindent \textbf{Reacción 1: Precipitación} \\
+\ch{MgCl2(aq) + 2 NaOH(aq) -> Mg(OH)2(s) + 2 NaCl(aq)} \\
+\textbf{Descripción:} En esta reacción de doble sustitución, los iones magnesio reaccionan con los iones hidroxilo para formar hidróxido de magnesio, un sólido insoluble que precipita en la solución. Los iones sodio y cloruro permanecen como iones espectadores. La ecuación está balanceada con un coeficiente de 2 para el hidróxido sódico y el cloruro sódico. \\
+Fuente: Chang y Goldsby (2017).
+
+\noindent \textbf{Reacción 2: Evolución de Gas} \\
+\ch{NaHCO3(s) + CH3COOH(aq) -> CH3COONa(aq) + H2O(l) + CO2(g)} \\
+\textbf{Descripción:} La reacción entre el bicarbonato de sodio y el ácido acético produce acetato de sodio, agua y dióxido de carbono. El desprendimiento del gas es la fuerza impulsora que desplaza la reacción hacia los productos. La ecuación se encuentra balanceada 1:1 estequiométricamente. \\
+Fuente: Zumdahl y DeCoste (2018).
+
+\noindent \textbf{Reacción 3: Neutralización} \\
+\ch{NaOH(aq) + HCl(aq) -> NaCl(aq) + H2O(l)} \\
+\textbf{Descripción:} Se trata de una reacción de neutralización fuerte donde un ácido y una base reaccionan para producir una sal neutra y agua líquida. La formación del agua, un compuesto molecular muy estable, es la fuerza impulsora. La ecuación está balanceada en todas sus especies. \\
+Fuente: Brown et al. (2014).
+
+\newpage
+
+% --- REFERENCIAS BIBLIOGRÁFICAS ---
+\section{VI. REFERENCIAS BIBLIOGRÁFICAS}
+
+\subsubsection{6.1 LIBROS}
+\begin{itemize}[leftmargin=1.5cm, label={}]
+    \item \hspace{-1cm} Brown, T. L., LeMay, H. E., Bursten, B. E., y Murphy, C. J. (2014). \textit{Química: La ciencia central} (12va ed.). Pearson Educación.
+    \item \hspace{-1cm} Chang, R., y Goldsby, K. A. (2017). \textit{Química} (12va ed.). McGraw-Hill Education.
+    \item \hspace{-1cm} Zumdahl, S. S., y DeCoste, D. J. (2018). \textit{Principios de química} (8va ed.). Cengage Learning.
+\end{itemize}
+
+\subsubsection{6.2 ELECTRÓNICAS}
+\begin{itemize}[leftmargin=1.5cm, label={}]
+    \item \hspace{-1cm} Universidad Rafael Landívar. (2026). \textit{Manual de Laboratorio Química Básica 1S2026}. Facultad de Ingeniería.
+\end{itemize}
+
+\end{document}
