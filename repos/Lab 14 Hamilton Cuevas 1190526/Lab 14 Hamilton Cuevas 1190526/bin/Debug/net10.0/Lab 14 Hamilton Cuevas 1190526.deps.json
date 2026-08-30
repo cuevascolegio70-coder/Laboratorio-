@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Lab 14 Hamilton Cuevas 1190526/1.0.0": {
+        "runtime": {
+          "Lab 14 Hamilton Cuevas 1190526.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 14 Hamilton Cuevas 1190526/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

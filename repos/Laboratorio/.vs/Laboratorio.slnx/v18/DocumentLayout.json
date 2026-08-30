@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamil\\source\\repos\\Laboratorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA0878F-6BFE-C441-2B78-186FA7F700D7}|Laboratorio\\Laboratorio.csproj|c:\\users\\hamil\\source\\repos\\laboratorio\\laboratorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA0878F-6BFE-C441-2B78-186FA7F700D7}|Laboratorio\\Laboratorio.csproj|solutionrelative:laboratorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamil\\source\\repos\\Laboratorio\\Laboratorio\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio\\Program.cs",
+              "ToolTip": "C:\\Users\\hamil\\source\\repos\\Laboratorio\\Laboratorio\\Program.cs",
+              "RelativeToolTip": "Laboratorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T00:08:52.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

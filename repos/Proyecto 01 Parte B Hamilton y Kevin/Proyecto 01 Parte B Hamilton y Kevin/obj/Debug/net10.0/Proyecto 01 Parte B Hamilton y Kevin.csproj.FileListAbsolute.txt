@@ -1,0 +1,14 @@
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\bin\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.exe
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\bin\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.deps.json
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\bin\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.runtimeconfig.json
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\bin\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.dll
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\bin\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.pdb
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.AssemblyInfoInputs.cache
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.AssemblyInfo.cs
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.csproj.CoreCompileInputs.cache
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.dll
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\refint\Proyecto 01 Parte B Hamilton y Kevin.dll
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.pdb
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\Proyecto 01 Parte B Hamilton y Kevin.genruntimeconfig.cache
+C:\Users\hamil\source\repos\Proyecto 01 Parte B Hamilton y Kevin\Proyecto 01 Parte B Hamilton y Kevin\obj\Debug\net10.0\ref\Proyecto 01 Parte B Hamilton y Kevin.dll

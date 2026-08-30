@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hamil\\source\\repos\\lab 08 Hamilton Cuevas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8D6F1D-48F0-4A90-8F28-98E25FE9E236}|lab 08 Hamilton Cuevas\\lab 08 Hamilton Cuevas.csproj|c:\\users\\hamil\\source\\repos\\lab 08 hamilton cuevas\\lab 08 hamilton cuevas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8D6F1D-48F0-4A90-8F28-98E25FE9E236}|lab 08 Hamilton Cuevas\\lab 08 Hamilton Cuevas.csproj|solutionrelative:lab 08 hamilton cuevas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hamil\\source\\repos\\lab 08 Hamilton Cuevas\\lab 08 Hamilton Cuevas\\Program.cs",
+              "RelativeDocumentMoniker": "lab 08 Hamilton Cuevas\\Program.cs",
+              "ToolTip": "C:\\Users\\hamil\\source\\repos\\lab 08 Hamilton Cuevas\\lab 08 Hamilton Cuevas\\Program.cs",
+              "RelativeToolTip": "lab 08 Hamilton Cuevas\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:24:07.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

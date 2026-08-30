@@ -1,0 +1,14 @@
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\bin\Debug\net10.0\Lab-12 Hamilton Cuevas.exe
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\bin\Debug\net10.0\Lab-12 Hamilton Cuevas.deps.json
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\bin\Debug\net10.0\Lab-12 Hamilton Cuevas.runtimeconfig.json
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\bin\Debug\net10.0\Lab-12 Hamilton Cuevas.dll
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\bin\Debug\net10.0\Lab-12 Hamilton Cuevas.pdb
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.AssemblyInfoInputs.cache
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.AssemblyInfo.cs
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.csproj.CoreCompileInputs.cache
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.dll
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\refint\Lab-12 Hamilton Cuevas.dll
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.pdb
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\Lab-12 Hamilton Cuevas.genruntimeconfig.cache
+C:\Users\hamil\source\repos\Lab-12 Hamilton Cuevas\Lab-12 Hamilton Cuevas\obj\Debug\net10.0\ref\Lab-12 Hamilton Cuevas.dll

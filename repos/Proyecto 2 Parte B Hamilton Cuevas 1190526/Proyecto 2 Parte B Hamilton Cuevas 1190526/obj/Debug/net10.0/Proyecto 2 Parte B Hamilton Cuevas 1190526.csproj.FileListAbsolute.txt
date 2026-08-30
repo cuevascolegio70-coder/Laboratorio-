@@ -1,0 +1,14 @@
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\bin\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.exe
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\bin\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.deps.json
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\bin\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.runtimeconfig.json
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\bin\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.dll
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\bin\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.pdb
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.AssemblyInfoInputs.cache
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.AssemblyInfo.cs
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.csproj.CoreCompileInputs.cache
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.dll
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\refint\Proyecto 2 Parte B Hamilton Cuevas 1190526.dll
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.pdb
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\Proyecto 2 Parte B Hamilton Cuevas 1190526.genruntimeconfig.cache
+C:\Users\hamil\source\repos\Proyecto 2 Parte B Hamilton Cuevas 1190526\Proyecto 2 Parte B Hamilton Cuevas 1190526\obj\Debug\net10.0\ref\Proyecto 2 Parte B Hamilton Cuevas 1190526.dll

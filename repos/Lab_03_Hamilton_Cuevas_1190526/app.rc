@@ -1,0 +1,9 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+#include <windows.h>
+
+#ifdef _WIN32
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MODERN
+#pragma code_page(1252)
+#endif //_WIN32

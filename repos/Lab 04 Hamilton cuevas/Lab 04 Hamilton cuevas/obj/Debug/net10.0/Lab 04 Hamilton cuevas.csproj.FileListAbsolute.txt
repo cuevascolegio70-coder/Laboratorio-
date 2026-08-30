@@ -1,0 +1,14 @@
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.AssemblyInfoInputs.cache
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.AssemblyInfo.cs
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.csproj.CoreCompileInputs.cache
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\bin\Debug\net10.0\Lab 04 Hamilton cuevas.exe
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\bin\Debug\net10.0\Lab 04 Hamilton cuevas.deps.json
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\bin\Debug\net10.0\Lab 04 Hamilton cuevas.runtimeconfig.json
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\bin\Debug\net10.0\Lab 04 Hamilton cuevas.dll
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\bin\Debug\net10.0\Lab 04 Hamilton cuevas.pdb
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.dll
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\refint\Lab 04 Hamilton cuevas.dll
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.pdb
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\Lab 04 Hamilton cuevas.genruntimeconfig.cache
+C:\Users\hamil\source\repos\Lab 04 Hamilton cuevas\Lab 04 Hamilton cuevas\obj\Debug\net10.0\ref\Lab 04 Hamilton cuevas.dll
